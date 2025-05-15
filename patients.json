@@ -1,0 +1,102 @@
+{
+    "P001": {
+        "name": "John Doe",
+        "city": "New York",
+        "age": 28,
+        "gender": "male",
+        "height": 175,
+        "weight": 70,
+        "bmi": 22.9,
+        "verdict": "obese"
+    },
+    "P002": {
+        "name": "Jane Smith",
+        "city": "Los Angeles",
+        "age": 34,
+        "gender": "male",
+        "height": 172,
+        "weight": 50,
+        "bmi": 22.9,
+        "verdict": "overweight"
+    },
+    "P003": {
+        "name": "Emily Davis",
+        "city": "Chicago",
+        "age": 30,
+        "gender": "female",
+        "height": 160,
+        "weight": 58,
+        "bmi": 22.7,
+        "verdict": "normal"
+    },
+    "P004": {
+        "name": "Michael Brown",
+        "city": "Houston",
+        "age": 45,
+        "gender": "male",
+        "height": 180,
+        "weight": 90,
+        "bmi": 27.8,
+        "verdict": "overweight"
+    },
+    "P005": {
+        "name": "Sarah Wilson",
+        "city": "Phoenix",
+        "age": 25,
+        "gender": "female",
+        "height": 165,
+        "weight": 50,
+        "bmi": 18.4,
+        "verdict": "underweight"
+    },
+    "P006": {
+        "name": "David Lee",
+        "city": "Philadelphia",
+        "age": 38,
+        "gender": "male",
+        "height": 170,
+        "weight": 95,
+        "bmi": 32.9,
+        "verdict": "obese"
+    },
+    "P007": {
+        "name": "Anna Martinez",
+        "city": "San Antonio",
+        "age": 31,
+        "gender": "female",
+        "height": 158,
+        "weight": 65,
+        "bmi": 26.0,
+        "verdict": "overweight"
+    },
+    "P008": {
+        "name": "James Taylor",
+        "city": "San Diego",
+        "age": 29,
+        "gender": "male",
+        "height": 178,
+        "weight": 72,
+        "bmi": 22.7,
+        "verdict": "normal"
+    },
+    "P009": {
+        "name": "Laura White",
+        "city": "Dallas",
+        "age": 40,
+        "gender": "female",
+        "height": 162,
+        "weight": 85,
+        "bmi": 32.4,
+        "verdict": "obese"
+    },
+    "P010": {
+        "name": "Robert Johnson",
+        "city": "San Jose",
+        "age": 50,
+        "gender": "male",
+        "height": 182,
+        "weight": 78,
+        "bmi": 23.5,
+        "verdict": "normal"
+    }
+}
